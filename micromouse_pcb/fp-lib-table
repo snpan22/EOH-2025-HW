@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MCU_TEENSY_Footprint")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/MCU_TEENSY_Footprint.pretty")(options "")(descr ""))
+)
